@@ -17,7 +17,7 @@ An interactive web-based simulator to visualize the Huffman Encoding algorithm. 
 
 ## 📸 Demo
 
-![Huffman Tree Animation] 
+[Huffman Tree Animation] (https://github.io/MrMajharul/Huffman-Encoding-Simulator/)
 > Animation of tree generation and code assignment
 
 ## 🛠️ Technologies Used
